@@ -14,7 +14,7 @@ The practice:
 - recognises the inseparability of body and mind
 - is fun
 
-There will be a herbal tea break!
+There will be a (herbal) tea break!
 
 ### What you will need
 
@@ -27,7 +27,7 @@ Avoid a big meal prior to class.
 
 ### Teacher
 
-Peter Matulis has been practicing a modern expression of yiquan since 1991. He has also been practicing Chen's tai chi since 2012. He places an emphasis on the fundamental aspects of these arts and on their meditative aspect.
+Peter Matulis has been practicing a modern expression of yiquan since 1991. He has also been practicing Chen's tai chi since 2012. He places an emphasis on the fundamental aspects of these arts and on their meditative character.
 
 ### Acknowledgements
 
@@ -35,11 +35,11 @@ These teachings would not be possible without the lifelong dedication of many in
 
 ```
 Wang Xiangzhai
-   `-- You Pengxi
-          `-- Liang Zipeng
-                 `-- Sun Zhi
-                 `-- Moy Lin-shin
-                        `-- Philippe Gagnon
+  `-- You Pengxi
+        `-- Liang Zipeng
+              `-- Sun Zhi
+              `-- Moy Lin-shin
+                    `-- Philippe Gagnon
 ```
 
 ### Contact
