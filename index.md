@@ -25,6 +25,19 @@ There will be a herbal tea break!
 
 Avoid a big meal prior to class.
 
+### Acknowledgements
+
+These teachings would not be possible without the efforts and lifelong dedication of many individuals. The following is a recent history lineage chart:
+
+```
+Wang Xiangzhai
+   `-- You Pengxi
+          `-- Liang Zipeng
+                 `-- Sun Zhi
+                 `-- Moy Lin-shin
+                        `-- Philippe Gagnon
+```
+
 ### Contact
 
-For information on the origins of this school see the [main lineage web site](https://taichinuances.com/). You can also directly [contact Peter Matulis, the PCIA head instructor](mailto:pmatulis@gmail.com).
+For more information on the origins of this school see the [main lineage web site](https://taichinuances.com/). You can also directly [contact Peter Matulis, the PCIA head instructor](mailto:pmatulis@gmail.com).
