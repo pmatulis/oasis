@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/pmatulis/taichi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Pointe Claire Internal Arts offers classes in Chinese-based health arts. Its mission is to act as an oasis for the weary traveler of the modern world. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### The practice
 
-### Markdown
+Exercises are done standing, in a chair, and on the floor. The space is cleaned before each class and participants are encouraged to wear soft footwear such as thick socks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The practice:
 
-```markdown
-Syntax highlighted code block
+- takes place in a non-competitive and emotionally safe environment
+- is welcoming and adaptable to people of all ages, genders, colours, shapes, and sizes
+- recognises the inseparability of body and mind
+- is fun
 
-# Header 1
-## Header 2
-### Header 3
+There will be a herbal tea break!
 
-- Bulleted
-- List
+### What you will need
 
-1. Numbered
-2. List
+- your full attention
+- loose clothing
+- a yoga mat or a blanket 
 
-**Bold** and _Italic_ and `Code` text
+* Avoid a big meal prior to class.
 
-[Link](url) and ![Image](src)
-```
+### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmatulis/taichi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For information on the origins of this school see the [main lineage web site](https://taichinuances.com/). You can also directly [contact Peter Matulis, the PCIA head instructor](mailto:pmatulis@gmail.com).
