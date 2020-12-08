@@ -25,9 +25,13 @@ There will be a herbal tea break!
 
 Avoid a big meal prior to class.
 
+### Teacher
+
+Peter Matulis has been practicing a modern expression of yiquan since 1991. He also been practicing Chen's tai chi since 2012. He places an emphasis on the fundamental aspects of these arts and on their meditative aspect. He is a practitioner of Japanese Buddhism (Zen).
+
 ### Acknowledgements
 
-These teachings would not be possible without the efforts and lifelong dedication of many individuals. The following is a simplified lineage chart:
+These teachings would not be possible without the lifelong dedication of many individuals. The following is a simplified lineage chart:
 
 ```
 Wang Xiangzhai
