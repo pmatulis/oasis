@@ -44,4 +44,4 @@ Wang Xiangzhai
 
 ### Contact
 
-For more information on the origins of this school see the [main lineage web site](https://taichinuances.com/). You can also directly [contact Peter Matulis, the PCIA head instructor](mailto:pmatulis@gmail.com).
+For more information on the origins of this school see the [main lineage web site](https://taichinuances.com/). You can also directly contact Peter Matulis, the PCIA head instructor: <pmatulis@gmail.com>.
