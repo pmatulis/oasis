@@ -27,7 +27,7 @@ Avoid a big meal prior to class.
 
 ### Acknowledgements
 
-These teachings would not be possible without the efforts and lifelong dedication of many individuals. The following is a recent history lineage chart:
+These teachings would not be possible without the efforts and lifelong dedication of many individuals. The following is a simplified lineage chart:
 
 ```
 Wang Xiangzhai
