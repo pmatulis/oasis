@@ -4,12 +4,13 @@ Pointe Claire Internal Arts offers classes in Chinese-based health arts. Its mis
 
 ### The practice
 
-Exercises are done standing, in a chair, and on the floor. The space is cleaned before each class and participants are encouraged to wear soft footwear such as thick socks.
+Exercises are done standing, in a chair, and on the floor. The space is cleaned before each class and participants are encouraged to dispense with their outdoor shoes.
 
 The practice:
 
 - takes place in a non-competitive and emotionally safe environment
-- is welcoming and adaptable to people of all ages, genders, colours, shapes, and sizes
+- is welcoming to people of all ages, genders, colours, shapes, and sizes
+- can be adapted in terms of rigour on a per-student basis
 - recognises the inseparability of body and mind
 - is fun
 
@@ -17,11 +18,12 @@ There will be a herbal tea break!
 
 ### What you will need
 
-- your full attention
 - loose clothing
-- a yoga mat or a blanket 
+- a yoga mat or a blanket
+- thick socks (or double socks)
+- your full attention
 
-* Avoid a big meal prior to class.
+Avoid a big meal prior to class.
 
 ### Contact
 
