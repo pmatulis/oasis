@@ -27,7 +27,7 @@ Avoid a big meal prior to class.
 
 ### Teacher
 
-Peter Matulis has been practicing a modern expression of yiquan since 1991. He also been practicing Chen's tai chi since 2012. He places an emphasis on the fundamental aspects of these arts and on their meditative aspect. He is a practitioner of Japanese Buddhism (Zen).
+Peter Matulis has been practicing a modern expression of yiquan since 1991. He has also been practicing Chen's tai chi since 2012. He places an emphasis on the fundamental aspects of these arts and on their meditative aspect. He is a practitioner of Japanese Buddhism (Zen).
 
 ### Acknowledgements
 
