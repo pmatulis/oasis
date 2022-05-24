@@ -33,7 +33,7 @@ Avoid a big meal prior to class.
 Peter Matulis has been practising a modern expression of yiquan since 1991. He
 is also familiar with Chen village tai chi after having practised it for eight
 years (2012 - 2020), however Chen tai chi is not taught. He places an emphasis
-on the fundamental aspects of these arts and on their meditative character.
+on fundamental aspects and on their meditative character.
 
 ### Acknowledgements
 
