@@ -69,5 +69,5 @@ Wang Xiangzhai
 ### Contact
 
 For more information on the origins of this school see the [main lineage web
-site](https://taichinuances.com/). You can also directly contact Peter Matulis,
-: pmatulis AT gmail DOT com .
+site](https://taichinuances.com/). For email inquiries: pmatulis AT gmail DOT
+com .
