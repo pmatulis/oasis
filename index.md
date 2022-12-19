@@ -3,37 +3,53 @@
 Pointe Claire Internal Arts offers classes in Chinese-based healing arts. Its
 mission is to act as an oasis for the weary traveller of the modern world.
 
-### The practice
+### The environment
 
-Exercises are done standing, in a chair, and sometimes on the floor. The space
-is cleaned before each class and participants are encouraged to dispense with
-their outdoor shoes.
+The practice space is cleaned before each class and participants are encouraged
+to dispense with their outdoor shoes.
 
-The practice:
-
-- takes place in a non-competitive and emotionally safe environment
-- is welcoming to people of all ages, genders, colours, shapes, and sizes
-- can be adapted in terms of rigour on a per-student basis
-- recognises the connection between emotions and the body
-- is fun
+The environment is non-competitive and emotionally safe. People of all ages,
+genders, colours, shapes, and sizes are welcome.
 
 There will be a short non-caffeinated drink break (e.g. herbal tea).
 
+### The practice
+
+The practice consists of very specific exercises. Its goals are to:
+
+* open the joints
+* lengthen the sinews
+* strengthen the muscles (legs, back, core)
+* improve posture
+* develop bodily awareness (coordination)
+
+Exercises are done standing, in a chair, and sometimes on the floor. The
+movements taught are slow and sedate.
+
+As a student progresses, these exercises evolve from gentle to more demanding.
+However, wherever any given student may be, everyone does the same essential
+practice. The exercises only deepen as a student's capacity to receive them
+deepen.
+
+Seen from afar, when done standing (on two feet), the practice can be said to
+be like tai chi. Indeed, the founding teacher (Mr. Moy) chose to use the
+traditional Yang style tai chi as the receptacle for his art.
+
 ### What you will need
 
-- loose clothing
-- a yoga mat or a blanket
-- thick socks (or double socks)
-- your full attention
+* loose clothing
+* a yoga mat or a blanket
+* thick socks (or double socks)
+* your full attention
 
 Avoid a big meal prior to class.
 
 ### Teacher
 
-Peter Matulis has been practising a modern expression of yiquan since 1991. He
-is also familiar with Chen village tai chi after having practised it for eight
-years (2012 - 2020), however Chen tai chi is not taught. He places an emphasis
-on fundamental aspects and on their meditative character.
+Peter Matulis (PCIA head instructor) has been practising a modern expression of
+yiquan since 1991. He is also familiar with traditional tai chi (Chen village)
+after having practised it for eight years (2012 - 2020). Chen tai chi however
+is not taught.
 
 ### Acknowledgements
 
@@ -53,4 +69,4 @@ Wang Xiangzhai
 
 For more information on the origins of this school see the [main lineage web
 site](https://taichinuances.com/). You can also directly contact Peter Matulis,
-the PCIA head instructor: pmatulis AT gmail DOT com .
+: pmatulis AT gmail DOT com .
