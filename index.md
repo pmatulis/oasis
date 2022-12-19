@@ -1,6 +1,6 @@
 ## Welcome
 
-Pointe Claire Internal Arts offers classes in Chinese-based healing arts. Its
+Pointe-Claire Internal Arts offers classes in Chinese-based healing arts. Its
 mission is to act as an oasis for the weary traveller of the modern world.
 
 ### The environment
@@ -21,20 +21,24 @@ The practice consists of very specific exercises. Its goals are to:
 * lengthen the sinews
 * strengthen the muscles (legs, back, core)
 * improve posture
-* develop bodily awareness (coordination)
+* develop coordination
 
 Exercises are done standing, in a chair, and sometimes on the floor. The
 movements taught are slow and sedate.
 
 As a student progresses, these exercises evolve from gentle to more demanding.
 However, wherever any given student may be, everyone does the same essential
-practice. The exercises only deepen as a student's capacity to receive them
-deepens.
+practice; the exercises only deepen as a student's capacity to receive them
+deepens. Long-term practitioners have reported subtle benefits (calmness,
+mental alertness, generosity).
 
 To the untrained eye, when executing the "form" on two feet, the practice takes
 on the appearance of normal tai chi. Indeed, the founding teacher (Mr. Moy)
 chose to use traditional Yang style tai chi as the receptacle for his internal
 art.
+
+For more information on the origins of these teachings see the [main lineage
+web site](https://taichinuances.com/).
 
 ### What you will need
 
@@ -68,6 +72,4 @@ Wang Xiangzhai
 
 ### Contact
 
-For more information on the origins of this school see the [main lineage web
-site](https://taichinuances.com/). For email inquiries: pmatulis AT gmail DOT
-com .
+Inquiries can be made by e-mail: pmatulis AT gmail DOT com .
