@@ -29,11 +29,12 @@ movements taught are slow and sedate.
 As a student progresses, these exercises evolve from gentle to more demanding.
 However, wherever any given student may be, everyone does the same essential
 practice. The exercises only deepen as a student's capacity to receive them
-deepen.
+deepens.
 
-Seen from afar, when done standing (on two feet), the practice can be said to
-be like tai chi. Indeed, the founding teacher (Mr. Moy) chose to use the
-traditional Yang style tai chi as the receptacle for his art.
+To the untrained eye, when executing the "form" on two feet, the practice takes
+on the appearance of normal tai chi. Indeed, the founding teacher (Mr. Moy)
+chose to use traditional Yang style tai chi as the receptacle for his internal
+art.
 
 ### What you will need
 
@@ -47,9 +48,9 @@ Avoid a big meal prior to class.
 ### Teacher
 
 Peter Matulis (PCIA head instructor) has been practising a modern expression of
-yiquan since 1991. He is also familiar with traditional tai chi (Chen village)
-after having practised it for eight years (2012 - 2020). Chen tai chi however
-is not taught.
+yiquan since 1991. He is also familiar with the other end of the spectrum: a
+very traditional tai chi (Chen village) - having practised it for eight
+years (2012 - 2020). Chen tai chi however is not taught.
 
 ### Acknowledgements
 
