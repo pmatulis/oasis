@@ -5,11 +5,11 @@ mission is to act as an oasis for the weary traveller of the modern world.
 
 ### The environment
 
-The practice space is cleaned before each class and participants are encouraged
-to dispense with their outdoor shoes.
-
 The environment is non-competitive and emotionally safe. People of all ages,
 genders, colours, shapes, and sizes are welcome.
+
+The practice space is cleaned before each class and participants are encouraged
+to dispense with their shoes.
 
 There will be a short non-caffeinated drink break (e.g. herbal tea).
 
@@ -22,6 +22,7 @@ The practice consists of specific but gentle exercises. Their goals are to:
 * strengthen the muscles (legs, back, core)
 * improve posture
 * develop coordination
+* foster bodily awareness
 
 Exercises are done standing, in a chair, and sometimes on the floor. The
 movements taught are slow and sedate.
@@ -36,7 +37,11 @@ tai chi. Indeed, the founding teacher (Mr. Moy) chose traditional Yang style
 for the choreography (the receptacle) of his internal art.
 
 For more information on the origins of these teachings see the [main lineage
-web site](https://taichinuances.com/).
+web site](https://taichinuances.com).
+
+### Schedule and fees
+
+TBD
 
 ### What you will need
 
