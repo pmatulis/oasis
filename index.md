@@ -1,12 +1,13 @@
 ## Welcome
 
-Pointe-Claire Internal Arts offers classes in Chinese-based healing arts. Its
-mission is to act as an oasis for the weary traveller of the modern world.
+Pointe-Claire Internal Arts offers classes in Chinese healing arts. Its mission
+is to be an oasis for the weary traveller of the modern world. No rushing
+allowed.
 
 ### The environment
 
-The environment is non-competitive and emotionally safe. People of all ages,
-genders, colours, shapes, and sizes are welcome.
+The environment is non-competitive where people of all ages, genders, colours,
+shapes, and sizes are welcome.
 
 The practice space is cleaned before each class and participants are encouraged
 to dispense with their shoes.
@@ -32,9 +33,9 @@ a student's capacity to receive them deepens. However, everyone engages in the
 same essential practice. Long-term practitioners have reported indirect
 benefits such as calmness, mental acuity, and open-heartedness.
 
-To the untrained eye, the "form" executed on two feet manifests as classical
-tai chi. Indeed, the founding teacher (Mr. Moy) chose traditional Yang style
-for the choreography (the receptacle) of his internal art.
+To the untrained eye, the form executed on two feet manifests as classical tai
+chi. Indeed, the founding teacher (Mr. Moy) chose traditional Yang style as the
+choreography of his internal art.
 
 For more information on the origins of these teachings see the [main lineage
 web site](https://taichinuances.com).
