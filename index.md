@@ -15,7 +15,7 @@ There will be a short non-caffeinated drink break (e.g. herbal tea).
 
 ### The practice
 
-The practice consists of very specific exercises. Its goals are to:
+The practice consists of specific but gentle exercises. Their goals are to:
 
 * open the joints
 * lengthen the sinews
@@ -26,14 +26,13 @@ The practice consists of very specific exercises. Its goals are to:
 Exercises are done standing, in a chair, and sometimes on the floor. The
 movements taught are slow and sedate.
 
-As a student progresses, these exercises evolve from gentle to more demanding.
-However, wherever any given student may be, everyone does the same essential
-practice; the exercises only deepen as a student's capacity to receive them
-deepens. Long-term practitioners have reported subtle benefits (calmness,
-mental alertness, generosity).
+As a student progresses, these exercises evolve from basic to subtle. They
+deepen as a student's capacity to receive them deepens. However, everyone
+engages in the same essential practice. Long-term practitioners have reported
+indirect benefits such as calmness, mental alertness, and generosity.
 
 To the untrained eye, when executing the "form" on two feet, the practice takes
-on the appearance of normal tai chi. Indeed, the founding teacher (Mr. Moy)
+on the appearance of typical tai chi. Indeed, the founding teacher (Mr. Moy)
 chose to use traditional Yang style tai chi as the receptacle for his internal
 art.
 
