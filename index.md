@@ -26,15 +26,14 @@ The practice consists of specific but gentle exercises. Their goals are to:
 Exercises are done standing, in a chair, and sometimes on the floor. The
 movements taught are slow and sedate.
 
-As a student progresses, these exercises evolve from basic to subtle. They
-deepen as a student's capacity to receive them deepens. However, everyone
-engages in the same essential practice. Long-term practitioners have reported
-indirect benefits such as calmness, mental alertness, and generosity.
+As a student progresses, exercises evolve from basic to subtle. They deepen as
+a student's capacity to receive them deepens. However, everyone engages in the
+same essential practice. Long-term practitioners have reported indirect
+benefits such as calmness, mental acuity, and open-heartedness.
 
-To the untrained eye, when executing the "form" on two feet, the practice takes
-on the appearance of typical tai chi. Indeed, the founding teacher (Mr. Moy)
-chose to use traditional Yang style tai chi as the receptacle for his internal
-art.
+To the untrained eye, the "form" executed on two feet manifests as classical
+tai chi. Indeed, the founding teacher (Mr. Moy) chose traditional Yang style
+for the choreography (the receptacle) of his internal art.
 
 For more information on the origins of these teachings see the [main lineage
 web site](https://taichinuances.com/).
