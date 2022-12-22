@@ -75,4 +75,4 @@ Wang Xiangzhai
 
 ### Contact
 
-Inquiries can be made by e-mail: pmatulis AT gmail DOT com .
+Inquiries can be made by [e-mail](mailto:info@oasis-internal.art).
