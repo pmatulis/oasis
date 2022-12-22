@@ -1,7 +1,7 @@
 ## Welcome
 
 Oasis Internal Arts offers classes in Chinese healing arts. Its mission is to
-act as an oasis for the traveller of the modern world.
+serve as an oasis for the traveller of the modern world.
 
 ### The environment
 
@@ -29,8 +29,8 @@ movements taught are slow and sedate.
 
 As a student progresses, exercises evolve from basic to subtle. They deepen as
 a student's capacity to receive them deepens. However, everyone engages in the
-same essential practice. Long-term practitioners have reported indirect
-benefits such as calmness, mental acuity, and open-heartedness.
+same essential practice. Long-term practitioners have reported additional
+benefits such as improved sleep, mental acuity, and open-heartedness.
 
 To the untrained eye, the form executed on two feet manifests as classical tai
 chi. Indeed, the founding teacher (Mr. Moy) chose traditional Yang style as the
