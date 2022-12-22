@@ -1,7 +1,7 @@
 ## Welcome
 
-Oasis Internal Arts offers classes in Chinese healing arts. Its mission is to
-serve as an oasis for the traveller of the modern world.
+Oasis Internal Arts offers classes in the Chinese healing arts. Its mission is
+to serve as an oasis for the traveller of the modern world.
 
 ### The environment
 
