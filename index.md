@@ -1,8 +1,7 @@
 ## Welcome
 
-Pointe-Claire Internal Arts offers classes in Chinese healing arts. Its mission
-is to be an oasis for the weary traveller of the modern world. No rushing
-allowed.
+Oasis Internal Arts offers classes in Chinese healing arts. Its mission is to
+act as an oasis for the traveller of the modern world.
 
 ### The environment
 
