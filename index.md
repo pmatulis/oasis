@@ -1,17 +1,19 @@
 ## Welcome
 
 Oasis Internal Arts offers classes in the Chinese healing arts. Its mission is
-to serve as an oasis for the traveller of the modern world.
+to serve as an oasis for the traveller of the modern world. People of all ages,
+genders, colours, and shapes are welcome here.
 
 ### The environment
 
-The environment is non-competitive where people of all ages, genders, colours,
-shapes, and sizes are welcome.
+The teacher shares their experience with students in a non-competitive
+environment. Both teacher and students practice together in a convivial
+atmosphere of mutual benefit.
 
 The practice space is cleaned before each class and participants are encouraged
 to dispense with their shoes.
 
-There will be a short non-caffeinated drink break (e.g. herbal tea).
+There will be a short break where herbal tea is served.
 
 ### The practice
 
@@ -24,17 +26,21 @@ The practice consists of specific but gentle exercises. Their goals are to:
 * develop coordination
 * foster bodily awareness
 
+Long-term practitioners have reported additional benefits such as a higher
+quality sleep, enhanced mental acuity, and open-heartedness.
+
 Exercises are done standing, in a chair, and sometimes on the floor. The
-movements taught are slow and sedate.
+movements taught are slow and sedate. They can be adapted according to the
+needs of the students.
 
-As a student progresses, exercises evolve from basic to subtle. They deepen as
-a student's capacity to receive them deepens. However, everyone engages in the
-same essential practice. Long-term practitioners have reported additional
-benefits such as improved sleep, mental acuity, and open-heartedness.
+As a student progresses, aspects of the exercises deepen as a student's
+capacity to receive them deepens. However, everyone engages in the same
+essential practice.
 
-To the untrained eye, the form executed on two feet manifests as classical tai
-chi. Indeed, the founding teacher (Mr. Moy) chose traditional Yang style as the
-choreography of his internal art.
+Very gradually, movements will be stitched together like a puzzle. This will
+enable a single longer move to be practised (fun). To the untrained eye, this
+"form" manifests as classical tai chi. Indeed, the founding teacher (Mr. Moy)
+chose traditional Yang style as the external container for his internal art.
 
 For more information on the origins of these teachings see the [main lineage
 web site](https://taichinuances.com).
@@ -54,10 +60,9 @@ Avoid a big meal prior to class.
 
 ### Teacher
 
-Peter Matulis (PCIA head instructor) has been practising a modern expression of
-yiquan since 1991. He is also familiar with traditional Chen village tai chi,
-having practised it for eight years (2012 - 2020). Chen tai chi however is not
-taught.
+Peter Matulis (Oasis head instructor) has been practising a modern expression
+of yiquan since 1991. He also took classes in traditional Chen village tai chi
+for eight years (2012 - 2020).
 
 ### Acknowledgements
 
