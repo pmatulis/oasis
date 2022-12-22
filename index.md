@@ -2,7 +2,7 @@
 
 Oasis Internal Arts offers classes in the Chinese healing arts. Its mission is
 to serve as an oasis for the traveller of the modern world. People of all ages,
-genders, colours, and shapes are welcome here. Stay awhile and listen.
+genders, colours, and shapes are welcome here.
 
 ### The environment
 
@@ -37,10 +37,10 @@ As a student progresses, aspects of the exercises deepen as a student's
 capacity to receive them deepens. However, everyone engages in the same
 essential practice.
 
-Very gradually, movements will be stitched together like a puzzle. This will
-enable a single longer move to be practised (fun). To the untrained eye, this
-"form" manifests as classical tai chi. Indeed, the founding teacher (Mr. Moy)
-chose traditional Yang style as the external container for his internal art.
+Gradually, movements are stitched together like a puzzle. This enables a single
+longer move to be practised (fun). To the untrained eye, this "form" manifests
+as classical tai chi. The founding teacher (Mr. Moy) chose traditional Yang
+style as the external container for his internal art.
 
 For more information on the origins of these teachings see the [main lineage
 web site](https://taichinuances.com).
