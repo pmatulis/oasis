@@ -2,7 +2,7 @@
 
 Oasis Internal Arts offers classes in the Chinese healing arts. Its mission is
 to serve as an oasis for the traveller of the modern world. People of all ages,
-genders, colours, and shapes are welcome here.
+genders, colours, and shapes are welcome here. Stay awhile and listen.
 
 ### The environment
 
@@ -27,7 +27,7 @@ The practice consists of specific but gentle exercises. Their goals are to:
 * foster bodily awareness
 
 Long-term practitioners have reported additional benefits such as a higher
-quality sleep, enhanced mental acuity, and open-heartedness.
+quality of sleep, enhanced mental acuity, and open-heartedness.
 
 Exercises are done standing, in a chair, and sometimes on the floor. The
 movements taught are slow and sedate. They can be adapted according to the
