@@ -55,9 +55,9 @@ Avoid a big meal prior to class.
 ### Teacher
 
 Peter Matulis (PCIA head instructor) has been practising a modern expression of
-yiquan since 1991. He is also familiar with the other end of the spectrum: a
-very traditional tai chi (Chen village) - having practised it for eight
-years (2012 - 2020). Chen tai chi however is not taught.
+yiquan since 1991. He is also familiar with traditional Chen village tai chi,
+having practised it for eight years (2012 - 2020). Chen tai chi however is not
+taught.
 
 ### Acknowledgements
 
