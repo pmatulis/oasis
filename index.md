@@ -7,17 +7,18 @@ genders, colours, and shapes are welcome here.
 ### The environment
 
 The teacher shares their experience with students in a non-competitive
-environment. Both teacher and students practice together in a convivial
-atmosphere of mutual benefit.
+environment. Teacher and student practice together in a convivial, unhurried,
+and informal atmosphere.
 
-The practice space is cleaned before each class and participants are encouraged
-to dispense with their shoes.
+Participants are encouraged to dispense with their shoes (the practice space is
+cleaned beforehand).
 
 There will be a short break where herbal tea is served.
 
 ### The practice
 
-The practice consists of specific but gentle exercises. Their goals are to:
+The practice consists of specific but gentle exercises. Their main objectives
+are to:
 
 * open the joints
 * lengthen the sinews
@@ -26,16 +27,16 @@ The practice consists of specific but gentle exercises. Their goals are to:
 * develop coordination
 * foster bodily awareness
 
-Long-term practitioners have reported additional benefits such as a higher
-quality of sleep, enhanced mental acuity, and open-heartedness.
+Long-term practitioners have reported additional benefits such as a better
+quality of sleep, enhanced mental acuity, and a softening of the heart.
 
 Exercises are done standing, in a chair, and sometimes on the floor. The
-movements taught are slow and sedate. They can be adapted according to the
-needs of the students.
+movements are slow and sedate. They can be adapted according to the needs of
+each student.
 
-As a student progresses, aspects of the exercises deepen as a student's
-capacity to receive them deepens. However, everyone engages in the same
-essential practice.
+Various aspects of the exercises are highlighted as a student's capacity to
+understand them deepens over time. Everyone engages in the same essential
+practice however.
 
 Gradually, movements are stitched together like a puzzle. This enables a single
 longer move to be practised (fun). To the untrained eye, this "form" manifests
