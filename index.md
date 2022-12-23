@@ -4,17 +4,6 @@ Oasis Internal Arts offers classes in the Chinese healing arts. Its mission is
 to serve as an oasis for the traveller of the modern world. People of all ages,
 genders, colours, and shapes are welcome here.
 
-### The environment
-
-The teacher shares their experience and the students practice in a
-non-competitive environment. Teacher and student often practice together.
-Everything takes place in a convivial, unhurried, and informal atmosphere.
-
-Participants are encouraged to dispense with their shoes (the space is cleaned
-beforehand).
-
-There will be a short break where herbal tea is served.
-
 ### The practice
 
 The practice consists of specific but gentle exercises. Their main objectives
@@ -38,13 +27,24 @@ Various aspects of the exercises are highlighted as a student's capacity to
 understand them deepens over time. Everyone engages in the same essential
 practice however.
 
-Gradually, movements are stitched together like a puzzle. This enables a single
-longer move to be practised (fun). To the untrained eye, this "form" manifests
-as classical tai chi. The founding teacher (Mr. Moy) chose traditional Yang
-style as the external container for his internal art.
+Gradually, movements are stitched together, thereby enabling a single longer
+move to be practised. To the untrained eye, this "form" manifests as classical
+tai chi. Indeed, the founding teacher (Mr. Moy) chose traditional Yang style
+for the choreography of his internal art.
 
 For more information on the origins of these teachings see the [main lineage
 web site](https://taichinuances.com).
+
+### The environment
+
+The teacher shares their experience and the students practice in a
+non-competitive environment. Teacher and student often practice together.
+Everything takes place in a convivial, unhurried, and informal atmosphere.
+
+Participants are encouraged to dispense with their shoes (the space is cleaned
+beforehand).
+
+There will be a short break where herbal tea is served.
 
 ### Schedule and fees
 
