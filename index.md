@@ -6,12 +6,12 @@ genders, colours, and shapes are welcome here.
 
 ### The environment
 
-The teacher shares their experience with students in a non-competitive
-environment. Teacher and student practice together in a convivial, unhurried,
-and informal atmosphere.
+The teacher shares their experience and the students practice in a
+non-competitive environment. Teacher and student often practice together.
+Everything takes place in a convivial, unhurried, and informal atmosphere.
 
-Participants are encouraged to dispense with their shoes (the practice space is
-cleaned beforehand).
+Participants are encouraged to dispense with their shoes (the space is cleaned
+beforehand).
 
 There will be a short break where herbal tea is served.
 
