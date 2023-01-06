@@ -50,7 +50,7 @@ Les participants sont encouragés à enlever leurs souliers. L'espace de
 pratique est nettoyé avant chaque classe.
 
 Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
-(ex: tisane)
+(ex: tisane).
 
 ### Horaire et frais
 
@@ -63,7 +63,7 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 * des bas épais (ou deux paires de bas)
 * toute votre attention
 
-Éviter de trop manger avant le cours
+Éviter de trop manger avant le cours.
 
 ### Le professeur
 
@@ -78,12 +78,12 @@ individus et ce, durant leur vie entière. Ce qui suit est un tableau de lignée
 simplifié:
 
 ```
-Wang Xiangzhai
-  `-- You Pengxi
-        `-- Liang Zipeng
-              `-- Sun Zhi
-              `-- Moy Lin-shin
-                    `-- Philippe Gagnon
+Wang Xiangzhai (yiquan)
+  \-- Yu Pengxi             Wu Yihui (liuhebafa)
+        \-- Liang Zipeng --/
+              \-- Sun Zhi (yiquan + xingyi)
+              \-- Moy Lin-shin
+                    \-- Philippe Gagnon
 ```
 
 ### Contact

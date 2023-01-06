@@ -73,12 +73,12 @@ These teachings would not be possible without the lifelong dedication of many
 individuals. The following is a simplified lineage chart:
 
 ```
-Wang Xiangzhai
-  `-- You Pengxi
-        `-- Liang Zipeng
-              `-- Sun Zhi
-              `-- Moy Lin-shin
-                    `-- Philippe Gagnon
+Wang Xiangzhai (yiquan)
+  \-- Yu Pengxi             Wu Yihui (liuhebafa)
+        \-- Liang Zipeng --/
+              \-- Sun Zhi (yiquan + xingyi)
+              \-- Moy Lin-shin
+                    \-- Philippe Gagnon
 ```
 
 ### Contact
