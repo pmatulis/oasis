@@ -6,8 +6,8 @@ le monde est le bienvenu peu importe son genre, âge, nationalités, poids, etc.
 
 ### La pratique
 
-La pratique consiste en des exercices spécifiques mais doux dont on constate
-souvent les bienfaits suivants:
+La pratique consiste en des exercices spécifiques mais doux. Les objectifs sont
+les suivants:
 
 * ouverture des articulations
 * étirement des tendons
