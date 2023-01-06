@@ -4,7 +4,7 @@ Oasis Internal Arts offers classes in the Chinese healing arts. Its mission is
 to serve as an oasis for the traveller of the modern world. People of all ages,
 genders, colours, and shapes are welcome here.
 
-**[Version française](index-fr.md)**
+**Voir la [version française](index-fr.md) de cette page.**
 
 ### The practice
 

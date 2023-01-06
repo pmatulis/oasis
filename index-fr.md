@@ -4,6 +4,8 @@ Les Arts Internes Oasis offre des cours sur les arts de guérison chinois. Sa
 mission est d'agir comme un oasis pour le voyageur du monde moderne. Ici, tout
 le monde est le bienvenu peu importe son genre, âge, nationalités, poids, etc.
 
+**See the [English version](index.md) of this page.**
+
 ### La pratique
 
 La pratique consiste en des exercices spécifiques mais doux. Les objectifs sont
