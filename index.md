@@ -50,7 +50,7 @@ There will be a short break where herbal tea is served.
 
 ### Schedule and fees
 
-TBD
+*To be determined*
 
 ### What you will need
 

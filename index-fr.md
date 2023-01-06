@@ -52,11 +52,9 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 
 ### Horaire et frais
 
-TBD
+*À déterminer*
 
-### What you will need
-
-Ce que vous aurez besoin
+### Ce que vous aurez besoin
 
 * des vêtements amples
 * un matelas de yoga ou une couverture
