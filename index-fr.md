@@ -10,7 +10,7 @@ importe son âge, son genre, sa nationalité, son poids, etc.
 ### La pratique
 
 La pratique consiste en des exercices qui sont pratiqués debout, sur une chaise
-et ou sur le plancher. Ils peuvent être statiques ou en mouvement. Ils ont tous
+ou sur le plancher. Ils peuvent être statiques ou en mouvement. Ils ont tous
 pour objectifs:
 
 * l'ouverture des articulations
@@ -22,16 +22,16 @@ pour objectifs:
 
 De plus, les praticiens de longue date mentionnent souvent ressentir des
 bienfaits additionnels tels: une capacité de concentration améliorée, une
-meilleur qualité de sommeil et une ouverture du coeur.
+meilleure qualité de sommeil et une ouverture du coeur.
 
 Les postures statiques peuvent être vécues comme de la méditation debout (zhan
 zhuang).
 
-Les exercices en mouvements sont exécutés lentement et en continu.
-Graduellement, ils sont enchaînés ensemble ce qui permet de pratiquer une forme
-plus longue d’exercice. Pour un observateur non avisé, cette forme, qui est
-exécutée debout, ressemble à du tai chi classique. En effet, le fondateur (M.
-Moy) a choisi le style Yang traditionnel comme chorégraphie de son art interne.
+Les exercices en mouvements sont exécutés lentement et en continu. Ils sont
+enchaînés ensemble ce qui permet de pratiquer une forme plus longue d’exercice.
+Pour un observateur non avisé, cette forme, qui est exécutée debout, ressemble
+à du tai chi classique. En effet, le fondateur (M. Moy) a choisi le style Yang
+traditionnel comme chorégraphie de son art interne.
 
 Avec la pratique, les exercices gagnent en subtilité. Leurs effets
 s'approfondissent à mesure que la capacité d'un étudiant à les recevoir
@@ -57,7 +57,13 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 
 ### L'horaire et le tarif
 
-*À déterminer*
+| cours      | horaire | lieu | tarif |
+| ---------- | ------- | -----| ----- |
+| Mini cours | 5 samedis | CAPC | $90   |
+
+CAPC
+[Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/)
+60 Av. Maywood, Pointe-Claire, Quebec H9R 0A7
 
 ### Ce que vous aurez besoin
 
@@ -91,5 +97,5 @@ Wang Xiangzhai (yiquan)
 
 ### Contact
 
-Pour toute questions, vous pouvez communiquer par
+Pour toutes questions, vous pouvez communiquer par
 [courriel](mailto:info@oasis-internal.art).
