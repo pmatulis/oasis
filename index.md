@@ -63,6 +63,8 @@ There will be a short break where herbal tea is served.
 |      multi-functional room (beside the weight room)
 |      [see the map](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)
 
+Come as you are. There is no need to register in advance.
+
 ### What you will need
 
 * loose clothing
