@@ -5,35 +5,33 @@ Les Arts Internes Oasis offre des cours sur les arts de guérison chinois
 pour le voyageur du monde moderne. Ici, tout le monde est le bienvenu peu
 importe son âge, son genre, sa nationalité, son poids, etc.
 
-**To consult the English version see [here](index.md).**
+**To consult the English version of this page see [here](index.md).**
 
 ### La pratique
 
-La pratique consiste en des exercices spécifiques qui ont pour objectifs:
+La pratique consiste en des exercices qui sont pratiqués debout, sur une chaise
+et ou sur le plancher. Ils peuvent être statiques ou en mouvement. Ils ont tous
+pour objectifs:
 
 * l'ouverture des articulations
 * l'étirement des tendons
 * le renforcement musculaire (jambes, dos, tronc)
-* la amélioration de la posture
+* l'amélioration de la posture
 * le développement de la coordination
 * l'augmentation de la conscience corporelle
 
 De plus, les praticiens de longue date mentionnent souvent ressentir des
-bienfaits additionnels tels: une capacité de concentration améliorée, un
+bienfaits additionnels tels: une capacité de concentration améliorée, une
 meilleur qualité de sommeil et une ouverture du coeur.
-
-Les exercices sont pratiqués debout, sur une chaise et parfois sur le plancher.
-Ils sont parfois statiques et parfois en mouvement.
 
 Les postures statiques peuvent être vécues comme de la méditation debout (zhan
 zhuang).
 
-Les exercices en movements sont exécutés lentement et en continu.
-Graduellement, les mouvements sont enchaînés ensemble ce qui permet de
-pratiquer une forme plus longue d’exercice. Pour un observateur non avisé,
-cette forme, qui est exécutée debout, ressemble à du tai chi classique. En
-effet, le fondateur (M. Moy) a choisi le style Yang traditionnel comme
-chorégraphie de son art interne.
+Les exercices en mouvements sont exécutés lentement et en continu.
+Graduellement, ils sont enchaînés ensemble ce qui permet de pratiquer une forme
+plus longue d’exercice. Pour un observateur non avisé, cette forme, qui est
+exécutée debout, ressemble à du tai chi classique. En effet, le fondateur (M.
+Moy) a choisi le style Yang traditionnel comme chorégraphie de son art interne.
 
 Avec la pratique, les exercices gagnent en subtilité. Leurs effets
 s'approfondissent à mesure que la capacité d'un étudiant à les recevoir
