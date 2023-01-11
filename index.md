@@ -1,16 +1,18 @@
 ## Welcome
 
-Oasis Internal Arts offers classes in the Chinese healing arts. Its mission is
-to serve as an oasis for the traveller of the modern world. People of all ages,
-genders, colours, and shapes are welcome here.
+Oasis Internal Arts offers classes in the Chinese healing arts (yiquan,
+liuhebafa, taichi, et qigong). Its mission is to serve as an oasis for the
+traveller of the modern world. People of all ages and body types are welcome
+here.
 
 **Pour consulter la version française de cette page [cliquer
 içi](index-fr.md).**
 
 ### The practice
 
-The practice consists of specific but gentle exercises. Their main objectives
-are to:
+The practice consists of exercises that are done standing, in a chair, and on
+the floor. They are primarily done as movements but they can also be stationary
+(static postures). They all have as objectives to:
 
 * open the joints
 * lengthen the sinews
@@ -22,21 +24,20 @@ are to:
 Long-term practitioners have reported additional benefits such as a better
 quality of sleep, enhanced mental acuity, and a softening of the heart.
 
-Exercises are done standing, in a chair, and sometimes on the floor. The
-movements are slow and sedate. They can be adapted according to the needs of
-each student.
+The static postures can be experienced as standing meditation (zhan zhuang).
+
+The moving exercises are slow and sedate. They are stitched together, thereby
+enabling a single longer move to be practised. To the untrained eye, this
+"form" manifests as classical tai chi. Indeed, the founding teacher (Mr. Moy)
+chose traditional Yang style for the choreography of his internal art.
 
 Various aspects of the exercises are highlighted as a student's capacity to
 understand them deepens over time. Everyone engages in the same essential
-practice however.
+practice however. **However, all the instructions can be adapted according to
+the needs of each student.**
 
-Gradually, movements are stitched together, thereby enabling a single longer
-move to be practised. To the untrained eye, this "form" manifests as classical
-tai chi. Indeed, the founding teacher (Mr. Moy) chose traditional Yang style
-for the choreography of his internal art.
-
-For more information on the origins of these teachings see the [main lineage
-web site](https://taichinuances.com).
+For more information on the origins of these teachings see the [Tai Chi
+Nuances](https://taichinuances.com) website.
 
 ### The environment
 
@@ -51,7 +52,17 @@ There will be a short break where herbal tea is served.
 
 ### Schedule and fees
 
-*To be determined*
+| Mini course
+| 5 Saturdays (January 21 - February 25)
+| *no class on February 11*
+| time: 10:00 am to 11:30 am
+| fee: $90
+
+| LOCATION:
+|      [Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)
+|      60 Maywood Avenue, Pointe-Claire, Quebec H9R 0A7
+|      multi-functional room (beside the weight room)
+|      [see the map](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)
 
 ### What you will need
 
@@ -64,9 +75,10 @@ Avoid a big meal prior to class.
 
 ### Teacher
 
-Peter Matulis (head instructor) has been practising a modern expression of
-yiquan since 1991. He also took classes in traditional Chen village tai chi for
-eight years (2012 - 2020).
+Peter Matulis has been practising a modern expression of yiquan, liuhebafa,
+taichi, and qigong since 1991. To this day, he continues to learn these arts
+from his teacher Philippe Gagnon. He also took classes in traditional Chen
+village tai chi for eight years (2012 - 2020).
 
 ### Acknowledgements
 

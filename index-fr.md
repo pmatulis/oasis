@@ -3,9 +3,9 @@
 Les Arts Internes Oasis offre des cours sur les arts de guérison chinois
 (yiquan, liuhebafa, taichi, et qigong). Sa mission est d'agir comme un oasis
 pour le voyageur du monde moderne. Ici, tout le monde est le bienvenu peu
-importe son âge, son genre, sa nationalité, son poids, etc.
+importe son âge ou son type de corps.
 
-**To consult the English version of this page see [here](index.md).**
+**To consult the English version of this page [click here](index.md).**
 
 ### La pratique
 
@@ -21,8 +21,8 @@ pour objectifs:
 * l'augmentation de la conscience corporelle
 
 De plus, les praticiens de longue date mentionnent souvent ressentir des
-bienfaits additionnels tels: une capacité de concentration améliorée, une
-meilleure qualité de sommeil et une ouverture du coeur.
+bienfaits additionnels tels: une meilleure qualité de sommeil, une capacité de
+concentration améliorée et une ouverture du coeur.
 
 Les postures statiques peuvent être vécues comme de la méditation debout (zhan
 zhuang).
@@ -81,8 +81,9 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 
 Peter Matulis pratique une expression moderne de yiquan, de liuhebafa, de
 taichi et de qigong depuis 1991. Encore aujourd'hui, il continu de
-perfectionner ces arts auprès de Philippe Gagnon. Peter a aussi pratiqué le tai
-chi Chen traditionnel (issu du Village Chen) pendant 8 ans (2012 à 2020).
+perfectionner ces arts auprès de son instructeur Philippe Gagnon. Peter a aussi
+pratiqué le tai chi Chen traditionnel (issu du Village Chen) pendant 8 ans
+(2012 à 2020).
 
 ### Remerciements
 
