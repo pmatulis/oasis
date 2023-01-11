@@ -60,12 +60,13 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 | Mini cours
 | 5 samedis (21 janvier - 25 février)
 | *pas de classe le 11 février*
-| tarif: 60$
-| lieu:
+| tarif: 90$
 
-salle multi-fonctionnel
-[Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/)  
-60 Av. Maywood, Pointe-Claire, Quebec H9R 0A7
+| lieu:
+|      [Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/)
+|      60 Av. Maywood, Pointe-Claire, Quebec H9R 0A7
+|      salle multi-fonctionnel
+|      [voir la carte](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)
 
 ### Ce que vous aurez besoin
 
