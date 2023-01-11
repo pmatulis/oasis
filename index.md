@@ -98,12 +98,12 @@ Wang Xiangzhai (yiquan)
 
 Inquiries can be made by [e-mail](mailto:info@oasis-internal.art).
 
-
-
-
-
-
-
-
-Oasis Internal Arts
-© PETER MATULIS ----- All rights reserved
+|
+|
+|
+|
+|
+|
+|
+| Oasis Internal Arts
+| © PETER MATULIS ----- All rights reserved
