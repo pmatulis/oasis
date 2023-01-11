@@ -10,8 +10,8 @@ importe son âge ou son type de corps.
 ### La pratique
 
 La pratique consiste en des exercices qui sont pratiqués debout, sur une chaise
-ou sur le plancher. Ils peuvent être statiques ou en mouvement. Ils ont tous
-pour objectifs:
+et parfois sur le plancher. Ils peuvent être statiques ou en mouvement. Ils ont
+tous pour objectifs:
 
 * l'ouverture des articulations
 * l'étirement des tendons
@@ -36,8 +36,7 @@ traditionnel comme chorégraphie de son art interne.
 Avec la pratique, les exercices gagnent en subtilité. Leurs effets
 s'approfondissent à mesure que la capacité d'un étudiant à les recevoir
 s'approfondit. Toutefois, tout le monde est engagé dans la même pratique. 
-**Cependant, tous les enseignements peuvent être adaptés aux besoins de chaque
-étudiant.**
+**Tous les enseignements peuvent être adaptés aux besoins de chaque étudiant.**
 
 Pour plus d'informations sur l'origine de ces enseignements voir le site
 internet [Tai Chi Nuances](https://taichinuances.com).

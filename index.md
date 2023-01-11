@@ -9,9 +9,9 @@ here.
 
 ### The practice
 
-The practice consists of exercises that are done standing, in a chair, and on
-the floor. They are primarily done as movements but they can also be stationary
-(static postures). They all have as objectives to:
+The practice consists of exercises that are done standing, in a chair, and
+sometimes on the floor. They are primarily done as movements but they can also
+be stationary (static postures). They all have as objectives to:
 
 * open the joints
 * lengthen the sinews
@@ -68,7 +68,6 @@ There will be a short break where herbal tea is served.
 * loose clothing
 * a yoga mat or a blanket
 * thick socks (or double socks)
-* your full attention
 
 Avoid a big meal prior to class.
 
