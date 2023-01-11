@@ -106,12 +106,14 @@ Wang Xiangzhai (yiquan)
 Pour toutes questions, vous pouvez communiquer par
 [courriel](mailto:info@oasis-internal.art).
 
-|
-|
-|
-|
-|
-|
-|
-| Arts Internes Oasis
-| © PETER MATULIS ----- Tous droits réservés
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+Arts Internes Oasis
+© PETER MATULIS ----- Tous droits réservés
