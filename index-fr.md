@@ -1,45 +1,50 @@
 ## Bienvenue
 
-Les Arts Internes Oasis offre des cours sur les arts de guérison chinois. Sa
-mission est d'agir comme un oasis pour le voyageur du monde moderne. Ici, tout
-le monde est le bienvenu peu importe son genre, âge, nationalités, poids, etc.
+Les Arts Internes Oasis offre des cours sur les arts de guérison chinois
+(yiquan, liuhebafa, taichi, et qigong). Sa mission est d'agir comme un oasis
+pour le voyageur du monde moderne. Ici, tout le monde est le bienvenu peu
+importe son âge, son genre, sa nationalité, son poids, etc.
 
-**See the [English version](index.md) of this page.**
+**To consult the English version see [here](index.md).**
 
 ### La pratique
 
-La pratique consiste en des exercices spécifiques mais doux. Les objectifs sont
-les suivants:
+La pratique consiste en des exercices spécifiques qui ont pour objectifs:
 
-* ouverture des articulations
-* étirement des tendons
-* renforcement musculaire (jambes, dos, tronc)
-* amélioration de la posture
-* développement de la coordination
-* augmentation de la conscience corporelle
+* l'ouverture des articulations
+* l'étirement des tendons
+* le renforcement musculaire (jambes, dos, tronc)
+* la amélioration de la posture
+* le développement de la coordination
+* l'augmentation de la conscience corporelle
 
 De plus, les praticiens de longue date mentionnent souvent ressentir des
-bienfaits additionnels tels: une ouverture du coeur, une sensation de calme
-avec une meilleure capacité de concentration et un sommeil moins agité.
+bienfaits additionnels tels: une capacité de concentration améliorée, un
+meilleur qualité de sommeil et une ouverture du coeur.
 
 Les exercices sont pratiqués debout, sur une chaise et parfois sur le plancher.
-Les mouvements enseignés sont exécutés lentement et en continu. Ils peuvent
-être adaptés aux besoins de chaque étudiant.
+Ils sont parfois statiques et parfois en mouvement.
 
-Avec la pratique les exercices gagnent en subtilité. Leurs effets
-s'approfondissent à mesure que la capacité d'un étudiant à les recevoir
-s'approfondit. Toutefois, tout le monde est engagé dans la même pratique. 
+Les postures statiques peuvent être vécues comme de la méditation debout (zhan
+zhuang).
 
+Les exercices en movements sont exécutés lentement et en continu.
 Graduellement, les mouvements sont enchaînés ensemble ce qui permet de
 pratiquer une forme plus longue d’exercice. Pour un observateur non avisé,
 cette forme, qui est exécutée debout, ressemble à du tai chi classique. En
 effet, le fondateur (M. Moy) a choisi le style Yang traditionnel comme
 chorégraphie de son art interne.
 
-Pour plus d'informations sur l'origine de ces enseignements et de leur lignée
-voir le [site internet de mon instructeur](https://taichinuances.com).
+Avec la pratique, les exercices gagnent en subtilité. Leurs effets
+s'approfondissent à mesure que la capacité d'un étudiant à les recevoir
+s'approfondit. Toutefois, tout le monde est engagé dans la même pratique. 
+**Cependant, tous les enseignements peuvent être adaptés aux besoins de chaque
+étudiant.**
 
-### L'environment
+Pour plus d'informations sur l'origine de ces enseignements voir le site
+internet [Tai Chi Nuances](https://taichinuances.com).
+
+### L'environnement
 
 Le professeur partage son expérience et les étudiants pratiquent dans un
 environnement non compétitif. Le professeur et les étudiants pratiquent souvent
@@ -52,7 +57,7 @@ pratique est nettoyé avant chaque classe.
 Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 (ex: tisane).
 
-### Horaire et frais
+### L'horaire et le tarif
 
 *À déterminer*
 
@@ -61,21 +66,21 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 * des vêtements amples
 * un matelas de yoga ou une couverture
 * des bas épais (ou deux paires de bas)
-* toute votre attention
 
 Éviter de trop manger avant le cours.
 
 ### Le professeur
 
-Peter Matulis (l’instructeur principal d’Oasis) pratique une expression moderne
-de yiquan depuis 1991. Il a aussi pratiqué le tai chi Chen traditionnel issu du
-Village Chen (Chen Village) pendant 8 ans (2012 à 2020).
+Peter Matulis pratique une expression moderne de yiquan, de liuhebafa, de
+taichi et de qigong depuis 1991. Encore aujourd'hui, il continu de
+perfectionner ces arts auprès de Philippe Gagnon. Peter a aussi pratiqué le tai
+chi Chen traditionnel (issu du Village Chen) pendant 8 ans (2012 à 2020).
 
 ### Remerciements
 
 Ces enseignements ne seraient pas possibles sans le dévouement de plusieurs
-individus et ce, durant leur vie entière. Ce qui suit est un tableau de lignée
-simplifié:
+individus et ce, durant leur vie entière. Ce qui suit est un tableau de la
+lignée simplifiée:
 
 ```
 Wang Xiangzhai (yiquan)

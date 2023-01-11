@@ -4,7 +4,8 @@ Oasis Internal Arts offers classes in the Chinese healing arts. Its mission is
 to serve as an oasis for the traveller of the modern world. People of all ages,
 genders, colours, and shapes are welcome here.
 
-**Voir la [version française](index-fr.md) de cette page.**
+**Pour consulter la version française de cette page [cliquer
+içi](index-fr.md).**
 
 ### The practice
 
@@ -63,9 +64,9 @@ Avoid a big meal prior to class.
 
 ### Teacher
 
-Peter Matulis (Oasis head instructor) has been practising a modern expression
-of yiquan since 1991. He also took classes in traditional Chen village tai chi
-for eight years (2012 - 2020).
+Peter Matulis (head instructor) has been practising a modern expression of
+yiquan since 1991. He also took classes in traditional Chen village tai chi for
+eight years (2012 - 2020).
 
 ### Acknowledgements
 
