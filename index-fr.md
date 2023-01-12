@@ -3,7 +3,7 @@
 Les Arts Internes Oasis offre des cours sur les arts de guérison chinois
 (yiquan, liuhebafa, taichi, et qigong). Sa mission est d'agir comme un oasis
 pour le voyageur du monde moderne. Ici, tout le monde est le bienvenu peu
-importe son âge ou son type de corps.
+importe son âge ou sa morphologie.
 
 **To consult the English version of this page [click here](index.md).**
 
@@ -131,5 +131,5 @@ Pour toutes questions, vous pouvez communiquer par
 &nbsp;
 &nbsp;
 
-Arts Internes Oasis
-© PETER MATULIS ----- Tous droits réservés
+| Arts Internes Oasis
+| © PETER MATULIS ----- Tous droits réservés

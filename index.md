@@ -5,7 +5,7 @@ liuhebafa, taichi, and qigong). Its mission is to serve as an oasis for the
 traveller of the modern world. People of all ages and body types are welcome
 here.
 
-**Pour consulter la version française de cette page [cliquer içi](index-fr.md).**
+**Pour consulter la version française de cette page [cliquer ici](index-fr.md).**
 
 ### The practice
 
@@ -123,5 +123,5 @@ Inquiries can be made by [e-mail](mailto:info@oasis-internal.art).
 &nbsp;
 &nbsp;
 
-Oasis Internal Arts
-© PETER MATULIS ----- All rights reserved
+| Oasis Internal Arts
+| © PETER MATULIS ----- All rights reserved
