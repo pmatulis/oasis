@@ -1,8 +1,8 @@
 ## Bienvenue
 
 Les Arts Internes Oasis offre des cours sur les arts de guérison chinois
-(yiquan, liuhebafa, taichi, et qigong). Sa mission est d'agir comme un oasis
-pour le voyageur du monde moderne. Ici, tout le monde est le bienvenu peu
+suivants: yiquan, liuhebafa, taichi, et qigong. Sa mission est d'agir comme un
+oasis pour le voyageur du monde moderne. Ici, tout le monde est le bienvenu peu
 importe son âge ou sa morphologie.
 
 **To consult the English version of this page [click here](index.md).**

@@ -1,7 +1,7 @@
 ## Welcome
 
-Oasis Internal Arts offers classes in the Chinese healing arts (yiquan,
-liuhebafa, taichi, and qigong). Its mission is to serve as an oasis for the
+Oasis Internal Arts offers classes in these Chinese healing arts: yiquan,
+liuhebafa, taichi, and qigong. Its mission is to serve as an oasis for the
 traveller of the modern world. People of all ages and body types are welcome
 here.
 
