@@ -68,7 +68,12 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 |      salle multi-fonctionnel (à coté de la salle de musculation)
 |      [voir sur la carte](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)
 
+Envoyez un courriel si vous êtes intéressé. Un nombre minimum de personnes est
+requis.
+
+<!--
 Viens comme tu es. Il n'est pas nécessaire de s'inscrire à l'avance.
+-->
 
 ### Ce que vous aurez besoin
 
