@@ -56,11 +56,11 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 
 ### L'horaire et le tarif
 
-| Mini cours
-| 5 samedis (21 janvier - 25 février)
-| *pas de classe le 11 février*
+| Cours
+| 10 samedis (18 mars - 5 juin)
+| *pas de classe le 29 avril et le 6 may*
 | heures: 10h00 à 11h30
-| tarif: 90$
+| tarif: 150$ (pas de taxe)
 
 | LIEU:
 |      [Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/horaires-et-installations-centre-aquatique/)

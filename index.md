@@ -51,11 +51,11 @@ There will be a short break where herbal tea is served.
 
 ### Schedule and fees
 
-| Mini course
-| 5 Saturdays (January 21 - February 25)
-| *no class on February 11*
+| Course
+| 10 Saturdays (March 18 - June 03)
+| *no class on April 29 and May 6*
 | time: 10:00 am to 11:30 am
-| fee: $90
+| fee: $150 (no taxes)
 
 | LOCATION:
 |      [Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)
