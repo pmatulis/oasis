@@ -52,7 +52,7 @@ There will be a short break where herbal tea is served.
 ### Schedule and fees
 
 | Course
-| 10 Saturdays (March 18 - June 03)
+| 10 Saturdays (March 18 - June 3)
 | *no class on April 29 and May 6*
 | time: 10:00 am to 11:30 am
 | fee: $150 (no taxes)

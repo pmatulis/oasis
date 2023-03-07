@@ -57,7 +57,7 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 ### L'horaire et le tarif
 
 | Cours
-| 10 samedis (18 mars - 5 juin)
+| 10 samedis (18 mars - 3 juin)
 | *pas de classe le 29 avril et le 6 may*
 | heures: 10h00 à 11h30
 | tarif: 150$ (pas de taxe)
