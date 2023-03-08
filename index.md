@@ -51,13 +51,13 @@ There will be a short break where herbal tea is served.
 
 ### Schedule and fees
 
-| Course
-| 10 Saturdays (March 18 - June 3)
-| *no class on April 29 and May 6*
+| COURSE
+| 9 Saturdays (March 18 - June 3)
+| *no class on April 8, 29 and May 6*
 | time: 10:00 am to 11:30 am
-| fee: $150 (no taxes)
+| fee: $135 (no taxes)
 
-| LOCATION:
+| Location:
 |      [Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)
 |      60 Maywood Avenue, Pointe-Claire, Quebec H9R 0A7
 |      multi-functional room (beside the weight room)
@@ -65,9 +65,7 @@ There will be a short break where herbal tea is served.
 
 Send an email if you are interested. A minimum number of people is required.
 
-<!--
-Come as you are. There is no need to register in advance.
--->
+Drop-in visits are also possible. Please inquire before showing up.
 
 ### What you will need
 

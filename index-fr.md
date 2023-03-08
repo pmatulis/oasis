@@ -56,13 +56,13 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 
 ### L'horaire et le tarif
 
-| Cours
-| 10 samedis (18 mars - 3 juin)
-| *pas de classe le 29 avril et le 6 may*
+| COURS
+| 9 samedis (18 mars - 3 juin)
+| *pas de classe le 8, 29 avril et le 6 may*
 | heures: 10h00 à 11h30
-| tarif: 150$ (pas de taxe)
+| tarif: 135$ (pas de taxe)
 
-| LIEU:
+| Lieu:
 |      [Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/horaires-et-installations-centre-aquatique/)
 |      60, avenue Maywood, Pointe-Claire, Québec H9R 0A7
 |      salle multi-fonctionnel (à coté de la salle de musculation)
@@ -71,9 +71,8 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 Envoyez un courriel si vous êtes intéressé. Un nombre minimum de personnes est
 requis.
 
-<!--
-Viens comme tu es. Il n'est pas nécessaire de s'inscrire à l'avance.
--->
+La participation en dehors d'un cours multi-classes est également possible.
+Merci de vous renseigner avant de vous présenter.
 
 ### Ce que vous aurez besoin
 
