@@ -56,7 +56,7 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 
 ### L'horaire et le tarif
 
-| COURS
+| COURS - 2023
 | 7 mardis (27 juin - 15 août)
 | *pas de classe le 11 juillet*
 | heures: 19h30 à 21h00

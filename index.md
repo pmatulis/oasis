@@ -51,7 +51,7 @@ There will be a short break where herbal tea is served.
 
 ### Schedule and fees
 
-| COURSE
+| COURSE - 2023
 | 7 Tuesdays (June 27 - August 15)
 | *no class on July 11*
 | time: 19:30 pm to 21:00 pm
