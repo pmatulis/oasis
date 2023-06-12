@@ -57,10 +57,10 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 ### L'horaire et le tarif
 
 | COURS
-| 9 samedis (18 mars - 3 juin)
-| *pas de classe le 8, 29 avril et le 6 may*
-| heures: 10h00 à 11h30
-| tarif: 135$ (pas de taxe)
+| 7 mardis (27 juin - 15 août)
+| *pas de classe le 11 juillet*
+| heures: 19h30 à 21h00
+| tarif: 105$ (pas de taxe)
 
 | Lieu:
 |      [Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/horaires-et-installations-centre-aquatique/)
@@ -109,31 +109,6 @@ Wang Xiangzhai (yiquan)
 
 Pour toutes questions, vous pouvez communiquer par
 [courriel](mailto:info@oasis-internal.art).
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 | Arts Internes Oasis
 | © PETER MATULIS ----- Tous droits réservés

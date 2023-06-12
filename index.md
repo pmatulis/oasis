@@ -52,10 +52,10 @@ There will be a short break where herbal tea is served.
 ### Schedule and fees
 
 | COURSE
-| 9 Saturdays (March 18 - June 3)
-| *no class on April 8, 29 and May 6*
-| time: 10:00 am to 11:30 am
-| fee: $135 (no taxes)
+| 7 Tuesdays (June 27 - August 15)
+| *no class on July 11*
+| time: 19:30 pm to 21:00 pm
+| fee: $105 (no taxes)
 
 | Location:
 |      [Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)
@@ -99,31 +99,6 @@ Wang Xiangzhai (yiquan)
 ### Contact
 
 Inquiries can be made by [e-mail](mailto:info@oasis-internal.art).
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 | Oasis Internal Arts
 | © PETER MATULIS ----- All rights reserved
