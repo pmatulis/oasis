@@ -52,10 +52,10 @@ There will be a short break where herbal tea is served.
 ### Schedule and fees
 
 | COURSE - 2023
-| 7 Tuesdays (June 27 - August 15)
-| *no class on July 11*
-| time: 7:30 pm to 9:00 pm
-| fee: $105 (no taxes)
+| 9 Saturdays (Sept 16 - Dec 2)
+| *no classes on Oct 7, Nov 4 and 11*
+| time: 10:00 am to 11:30 am
+| fee: $135 (no taxes)
 
 | Location:
 |      [Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)

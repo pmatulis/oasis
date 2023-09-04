@@ -57,10 +57,10 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 ### L'horaire et le tarif
 
 | COURS - 2023
-| 7 mardis (27 juin - 15 août)
-| *pas de classe le 11 juillet*
-| heures: 19h30 à 21h00
-| tarif: 105$ (pas de taxe)
+| 9 samedis (16 septembre - 02 décembre)
+| *pas de classe le 7 oct, le 4 et 11 novembre*
+| heures: 10h00 à 11h30
+| tarif: 135$ (pas de taxe)
 
 | Lieu:
 |      [Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/horaires-et-installations-centre-aquatique/)
