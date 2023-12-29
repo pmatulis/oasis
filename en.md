@@ -5,7 +5,7 @@ liuhebafa, taichi, and qigong. Its mission is to serve as an oasis for the
 traveller of the modern world. People of all ages and body types are welcome
 here.
 
-**Pour consulter la version française de cette page [cliquer ici](index-fr.md).**
+**Pour consulter la version française de cette page [cliquer ici](fr.md).**
 
 ### The practice
 
@@ -51,17 +51,17 @@ There will be a short break where herbal tea is served.
 
 ### Schedule and fees
 
-| COURSE - 2023
-| 9 Saturdays (Sept 16 - Dec 2)
-| *no classes on Oct 7, Nov 4 and 11*
-| time: 10:00 am to 11:30 am
-| fee: $135 (no taxes)
+**Course - 2024**  
+7 Saturdays (Jan 13 - March 2)  
+*no class on Feb 17*  
+time: 10:00 am to 11:30 am  
+fee: $140 (no taxes)
 
-| Location:
-|      [Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)
-|      60 Maywood Avenue, Pointe-Claire, Quebec H9R 0A7
-|      multi-functional room (beside the weight room)
-|      [see the map](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)
+Location:
+
+[Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)  
+60 Maywood Avenue, Pointe-Claire, Quebec H9R 0A7 - [see the map](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)  
+multi-functional room (beside the weight room)
 
 Send an email if you are interested. A minimum number of people is required.
 
@@ -100,5 +100,5 @@ Wang Xiangzhai (yiquan)
 
 Inquiries can be made by [e-mail](mailto:info@oasis-internal.art).
 
-| Oasis Internal Arts
-| © PETER MATULIS ----- All rights reserved
+Oasis Internal Arts  
+© PETER MATULIS ----- All rights reserved

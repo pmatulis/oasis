@@ -5,7 +5,7 @@ suivants: yiquan, liuhebafa, taichi, et qigong. Sa mission est d'agir comme un
 oasis pour le voyageur du monde moderne. Ici, tout le monde est le bienvenu peu
 importe son âge ou sa morphologie.
 
-**To consult the English version of this page [click here](index.md).**
+**To consult the English version of this page [click here](en.md).**
 
 ### La pratique
 
@@ -21,7 +21,7 @@ tous pour objectifs:
 * l'augmentation de la conscience corporelle
 
 De plus, les praticiens de longue date mentionnent souvent ressentir des
-bienfaits additionnels tels: une meilleure qualité de sommeil, une capacité de
+bienfaits additionnels tels: une meilleure qualité de sommeil, une capacité de
 concentration améliorée et une ouverture du coeur.
 
 Les postures statiques peuvent être vécues comme de la méditation debout (zhan
@@ -35,7 +35,7 @@ traditionnel comme chorégraphie de son art interne.
 
 Avec la pratique, les exercices gagnent en subtilité. Leurs effets
 s'approfondissent à mesure que la capacité d'un étudiant à les recevoir
-s'approfondit. Toutefois, tout le monde est engagé dans la même pratique. 
+s'approfondit. Toutefois, tout le monde est engagé dans la même pratique.
 **Tous les enseignements peuvent être adaptés aux besoins de chaque étudiant.**
 
 Pour plus d'informations sur l'origine de ces enseignements voir le site
@@ -56,17 +56,17 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 
 ### L'horaire et le tarif
 
-| COURS - 2023
-| 9 samedis (16 septembre - 02 décembre)
-| *pas de classe le 7 oct, le 4 et 11 novembre*
-| heures: 10h00 à 11h30
-| tarif: 135$ (pas de taxe)
+**Cours - 2024**  
+7 samedis (13 janvier - 02 mars)  
+*pas de classe le 17 février*  
+heures: 10h00 à 11h30  
+tarif: 140$ (pas de taxe)
 
-| Lieu:
-|      [Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/horaires-et-installations-centre-aquatique/)
-|      60, avenue Maywood, Pointe-Claire, Québec H9R 0A7
-|      salle multi-fonctionnel (à coté de la salle de musculation)
-|      [voir sur la carte](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)
+Lieu:
+
+[Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/horaires-et-installations-centre-aquatique/)  
+60, avenue Maywood, Pointe-Claire, Québec H9R 0A7 - [voir sur la carte](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)  
+salle multi-fonctionnel (à coté de la salle de musculation)
 
 Envoyez un courriel si vous êtes intéressé. Un nombre minimum de personnes est
 requis.
@@ -110,5 +110,5 @@ Wang Xiangzhai (yiquan)
 Pour toutes questions, vous pouvez communiquer par
 [courriel](mailto:info@oasis-internal.art).
 
-| Arts Internes Oasis
-| © PETER MATULIS ----- Tous droits réservés
+Arts Internes Oasis  
+© PETER MATULIS ----- Tous droits réservés
