@@ -5,7 +5,7 @@ suivants: yiquan, liuhebafa, taichi, et qigong. Sa mission est d'agir comme un
 oasis pour le voyageur du monde moderne. Ici, tout le monde est le bienvenu peu
 importe son âge ou sa morphologie.
 
-**To consult the English version of this page [click here](en.md).**
+**To consult the English version of this page [click here](index.md).**
 
 ### La pratique
 
@@ -48,8 +48,7 @@ environnement non compétitif. Le professeur et les étudiants pratiquent souven
 ensemble. Le tout se déroule dans une atmosphère tranquille, informelle et
 conviviale.
 
-Les participants sont encouragés à enlever leurs souliers. L'espace de
-pratique est nettoyé avant chaque classe.
+Les participants sont encouragés à enlever leurs souliers.
 
 Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 (ex: tisane).
@@ -61,12 +60,6 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 *pas de classe le 17 février*  
 heures: 10h00 à 11h30  
 tarif: 140$ (pas de taxe)
-
-| COURS - 2023
-| 7 mardis (27 juin - 15 août)
-| *pas de classe le 11 juillet*
-| heures: 19h30 à 21h00
-| tarif: 105$ (pas de taxe)
 
 Lieu:
 

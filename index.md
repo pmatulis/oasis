@@ -45,8 +45,7 @@ The teacher shares their experience and the students practice in a
 non-competitive environment. Teacher and student often practice together.
 Everything takes place in a convivial, unhurried, and informal atmosphere.
 
-Participants are encouraged to dispense with their shoes (the space is cleaned
-beforehand).
+Participants are encouraged to dispense with their shoes.
 
 There will be a short break where herbal tea is served.
 
@@ -58,23 +57,11 @@ There will be a short break where herbal tea is served.
 time: 10:00 am to 11:30 am  
 fee: $140 (no taxes)
 
-| COURSE - 2023
-| 7 Tuesdays (June 27 - August 15)
-| *no class on July 11*
-| time: 7:30 pm to 9:00 pm
-| fee: $105 (no taxes)
-
 Location:
 
 [Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)  
 60 Maywood Avenue, Pointe-Claire, Quebec H9R 0A7 - [see the map](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)  
 multi-functional room (beside the weight room)
-
-| Location:
-|      [Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)
-|      60 Maywood Avenue, Pointe-Claire, Quebec H9R 0A7
-|      multi-functional room (beside the weight room)
-|      [see the map](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)
 
 Send an email if you are interested. A minimum number of people is required.
 
@@ -115,6 +102,3 @@ Inquiries can be made by [e-mail](mailto:info@oasis-internal.art).
 
 Oasis Internal Arts  
 © PETER MATULIS ----- All rights reserved
-
-| Oasis Internal Arts
-| © PETER MATULIS ----- All rights reserved
