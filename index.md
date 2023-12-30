@@ -9,3 +9,6 @@
 **[FRANÇAIS](./fr.md)**
 
 </div>
+
+<p style="text-align:center"><a href="./en.md">English</a></p>
+<p style="text-align:center"><a href="./fr.md">Français</a></p>
