@@ -56,11 +56,11 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 
 ### L'horaire et le tarif
 
-**Cours - 2024**  
-7 samedis (13 janvier - 02 mars)  
-*pas de classe le 17 février*  
-heures: 10h00 à 11h30  
-tarif: 140$ (pas de taxe)
+| COURS - 2023
+| 7 mardis (27 juin - 15 août)
+| *pas de classe le 11 juillet*
+| heures: 19h30 à 21h00
+| tarif: 105$ (pas de taxe)
 
 Lieu:
 
