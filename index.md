@@ -1,3 +1,15 @@
+## Welcome
+
+Oasis Internal Arts offers classes in these Chinese healing arts: yiquan,
+liuhebafa, taichi, and qigong. Its mission is to serve as an oasis for the
+traveller of the modern world. People of all ages and body types are welcome
+here.
+
+**Pour consulter la version française de cette page [cliquer
+ici](index-fr.md).**
+
+### The practice
+
 The practice consists of exercises that are done standing, in a chair, and
 sometimes on the floor. They are primarily done as movements but they can also
 be stationary (static postures). They all have as objectives to:
@@ -40,11 +52,23 @@ There will be a short break where herbal tea is served.
 
 ### Schedule and fees
 
+**Course - 2024**  
+7 Saturdays (Jan 13 - March 2)  
+*no class on Feb 17*  
+time: 10:00 am to 11:30 am  
+fee: $140 (no taxes)
+
 | COURSE - 2023
 | 7 Tuesdays (June 27 - August 15)
 | *no class on July 11*
 | time: 7:30 pm to 9:00 pm
 | fee: $105 (no taxes)
+
+Location:
+
+[Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)  
+60 Maywood Avenue, Pointe-Claire, Quebec H9R 0A7 - [see the map](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)  
+multi-functional room (beside the weight room)
 
 | Location:
 |      [Pointe-Claire Aquatic Centre](http://www.pointe-claire.ca/en/schedules-and-facilities-aquatic-centre/)
@@ -88,6 +112,9 @@ Wang Xiangzhai (yiquan)
 ### Contact
 
 Inquiries can be made by [e-mail](mailto:info@oasis-internal.art).
+
+Oasis Internal Arts  
+© PETER MATULIS ----- All rights reserved
 
 | Oasis Internal Arts
 | © PETER MATULIS ----- All rights reserved
