@@ -55,21 +55,7 @@ Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 
 ### L'horaire et le tarif
 
-<!--
-
-**Cours - 2024**  
-7 samedis (13 janvier - 02 mars)  
-*pas de classe le 17 février*  
-heures: 10h00 à 11h30  
-tarif: 140$ (pas de taxe)
-
-Lieu:
-
-[Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/horaires-et-installations-centre-aquatique/)  
-60, avenue Maywood, Pointe-Claire, Québec H9R 0A7 - [voir sur la carte](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)  
-salle multi-fonctionnel (à coté de la salle de musculation)
-
--->
+Les cours durent 1,5 heure et coûtent 20 $ CAD chacun (aucun taxes demandé).
 
 Envoyez un courriel si vous êtes intéressé. Un nombre minimum de personnes est
 requis.
