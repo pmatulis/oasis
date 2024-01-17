@@ -53,6 +53,8 @@ Les participants sont encouragés à enlever leurs souliers.
 Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 (ex: tisane).
 
+<!--
+
 ### L'horaire et le tarif
 
 **Cours - 2024**  
@@ -66,6 +68,8 @@ Lieu:
 [Centre aquatique de Pointe-Claire](http://www.pointe-claire.ca/fr/horaires-et-installations-centre-aquatique/)  
 60, avenue Maywood, Pointe-Claire, Québec H9R 0A7 - [voir sur la carte](https://goo.gl/maps/3Dpr7Yw7d25m5mdv9)  
 salle multi-fonctionnel (à coté de la salle de musculation)
+
+-->
 
 Envoyez un courriel si vous êtes intéressé. Un nombre minimum de personnes est
 requis.
