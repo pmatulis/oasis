@@ -53,9 +53,9 @@ Les participants sont encouragés à enlever leurs souliers.
 Il y aura une courte pause durant laquelle un breuvage non-caféiné sera servi
 (ex: tisane).
 
-<!--
-
 ### L'horaire et le tarif
+
+<!--
 
 **Cours - 2024**  
 7 samedis (13 janvier - 02 mars)  

@@ -49,9 +49,9 @@ Participants are encouraged to dispense with their shoes.
 
 There will be a short break where herbal tea is served.
 
-<!--
-
 ### Schedule and fees
+
+<!--
 
 **Course - 2024**  
 7 Saturdays (Jan 13 - March 2)  
@@ -66,8 +66,6 @@ Location:
 multi-functional room (beside the weight room)
 
 -->
-
-### Schedule and fees
 
 Send an email if you are interested. A minimum number of people is required.
 
